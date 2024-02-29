@@ -1,0 +1,22 @@
+* { 
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  padding: 1.5rem;
+}
+.menu {
+  padding: 15px;
+}
+.dropdown {
+  font-size: 1.2rem;
+  list-style-type: none;
+  border: 2px white solid;
+}
+.dropdown-menu-item {
+  color: white;
+  text-decoration: none;
+}

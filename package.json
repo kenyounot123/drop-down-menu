@@ -1,7 +1,7 @@
 {
-  "name": "js-template",
+  "name": "simpledrop-js",
   "version": "1.0.0",
-  "description": "Repository template",
+  "description": "JavaScript drop down menu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,9 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "index.html"
+  ]
 }
