@@ -12,14 +12,14 @@ npm install simpledrop-js
 
 ## Usage
 
-** Import the module **
+**Import the module**
 To use the `newDropDownMenu` function, you first need to import it into your JavaScript file:
 
 ```js
 import { newDropDownMenu } from "simpledrop-js";
 ```
 
-** Creating a Dropdown Menu **
+**Creating a Dropdown Menu**
 The `newDropDownMenu` function takes two arguments: the element that triggers the drop down and the dropdown content element. Here is an example of how you would use the function:
 
 ```js
