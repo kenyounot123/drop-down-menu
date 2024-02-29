@@ -1,6 +1,6 @@
 {
   "name": "simpledrop-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript drop down menu",
   "main": "index.js",
   "scripts": {
