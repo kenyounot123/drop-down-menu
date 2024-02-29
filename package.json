@@ -15,7 +15,6 @@
     "eslint-plugin-import": "^2.29.1"
   },
   "files": [
-    "index.js",
-    "index.html"
+    "index.js"
   ]
 }
